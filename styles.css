@@ -1,5 +1,3 @@
-@import "reset.css";
-
 *,
 ::before,
 ::after {
@@ -33,9 +31,3 @@ select{
 font: inherit;
 }
 
-ul{
-	list-style-type: none;
-}
-a{
-	text-decoration: none;
-}

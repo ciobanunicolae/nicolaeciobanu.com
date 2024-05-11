@@ -31,3 +31,17 @@ select{
 font: inherit;
 }
 
+header nav{
+	align-self:center;
+}
+
+nav ul{
+	display: flex;
+	margin: 0 auto;
+}
+nav ul li{
+	margin: 0.5rem;
+}
+li{
+	list-style-type: none;
+}
